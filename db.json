@@ -1,1 +1,9 @@
-
+{
+        "id": 1,
+        "nombre": "Paco",
+        "apellido": "Porras",
+        "email": "ejemplo@ejemplo.com",
+        "edad": 33,
+        "creadoEn": "2022-02-14T20:22:38.621+00:00",
+        "fotoHashCode": null
+    }
